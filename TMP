@@ -7,6 +7,9 @@ vless://b620525a-5e9b-49d7-ca9e-c30d03b928b0@162.19.189.17:8443?encryption=none&
 trojan://wkmY1R4EcP@70.34.205.1:443?security=tls&sni=myket.ir&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-70.34.205.1%3A443%20%F0%9F%93%A1%20PING-121.24-MS
 vless://c0cf878e-08b3-4e10-b055-b334da6a6f71@104.18.202.232:80?encryption=none&security=none&type=ws&host=mihanyas.ir.zula.ir.xn--4all.vipleech.cc.&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.202.232%3A80%20%F0%9F%93%A1%20PING-003.50-MS
 trojan://wkmY1R4EcP@70.34.205.1:443?security=tls&sni=myket.ir&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-70.34.205.1%3A443%20%F0%9F%93%A1%20PING-121.24-MS
+vless://b620525a-5e9b-49d7-ca9e-c30d03b928b0@162.19.189.17:8443?encryption=none&security=tls&sni=snapppay.ir&fp=chrome&type=grpc&authority=&serviceName=vpn_xw.t.me&mode=gun#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%AB%F0%9F%87%B7%20FR-162.19.189.17%3A8443%20%F0%9F%93%A1%20PING-109.22-MS
+vless://c0cf878e-08b3-4e10-b055-b334da6a6f71@104.18.202.232:80?encryption=none&security=none&type=ws&host=mihanyas.ir.zula.ir.xn--4all.vipleech.cc.&path=%2F%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.202.232%3A80%20%F0%9F%93%A1%20PING-003.50-MS
+trojan://wkmY1R4EcP@70.34.205.1:443?security=tls&sni=myket.ir&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-70.34.205.1%3A443%20%F0%9F%93%A1%20PING-121.24-MS
 
 
 
