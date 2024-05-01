@@ -17,6 +17,12 @@ vless://bb8dce2e-a97a-4fc7-a2a9-c823490094db@89.44.119.213:8443?encryption=none&
 vless://bb8dce2e-a97a-4fc7-a2a9-c823490094db@45.140.31.212:8443?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-45.140.31.212%3A8443%20%F0%9F%93%A1%20PING-251.00-MS
 trojan://wkmY1R4EcP@70.34.205.1:443?security=tls&sni=myket.ir&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-70.34.205.1%3A443%20%F0%9F%93%A1%20PING-171.27-MS
 vless://2a4bfe79-b301-c477-a6a7-8929023b1e91@217.60.249.101:2095?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-217.60.249.101%3A2095%20%F0%9F%93%A1%20PING-237.38-MS
+vless://467d98bb-0adb-4be3-9e27-c254b7cdb41b@46.36.100.10:15520?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-46.36.100.10%3A15520%20%F0%9F%93%A1%20PING-159.91-MS
+vless://b620525a-5e9b-49d7-ca9e-c30d03b928b0@162.19.189.17:8443?encryption=none&security=tls&sni=snapppay.ir&fp=chrome&type=grpc&authority=&serviceName=vpn_xw.t.me&mode=gun#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%AB%F0%9F%87%B7%20FR-162.19.189.17%3A8443%20%F0%9F%93%A1%20PING-109.22-MS
+trojan://wkmY1R4EcP@70.34.205.1:443?security=tls&sni=myket.ir&type=tcp&headerType=none#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%B8%F0%9F%87%AA%20SE-70.34.205.1%3A443%20%F0%9F%93%A1%20PING-171.27-MS
+vless://00e199ed-477f-492c-aecd-e01ac2342008@104.21.232.99:80?encryption=none&security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.232.99%3A80%20%F0%9F%93%A1%20PING-007.34-MS
+trojan://JrHmCgVQ9S@104.18.203.232:8080?type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.&path=%2Fnew_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel%2Fnew_proxy_channel%3Fed%3D2560#%F0%9F%94%92%20TR-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.203.232%3A8080%20%F0%9F%93%A1%20PING-001.18-MS
+vless://4839bc0b-0c7a-4c6d-90d6-b2a4997fde89@212.80.18.60:41661?encryption=none&security=none&type=tcp&headerType=http&host=www.speedtest.net#%F0%9F%94%92%20VL-TCP-NONE%20%F0%9F%87%AE%F0%9F%87%B7%20IR-212.80.18.60%3A41661%20%F0%9F%93%A1%20PING-162.79-MS
 
 
 
